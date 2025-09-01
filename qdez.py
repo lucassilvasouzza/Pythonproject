@@ -1,5 +1,5 @@
 preco_hamburguer = 8.00
-preco_cheeseburger = 9.50
+preco_cheeseburger = 15.99
 preco_fritas = 5.50
 preco_refrigerante = 5.00
 preco_milkshake = 8.00
